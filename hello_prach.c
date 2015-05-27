@@ -4,5 +4,5 @@ int main()
 {
   printf("hello World!!!");
   
-  return prach;
+  return yok;
 }
